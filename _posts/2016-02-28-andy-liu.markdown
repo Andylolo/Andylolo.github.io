@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Andy Liu"
-date: 2016-11-28
+date: 2016-02-28
 categories:
-  - Juice
+  - Love
 description: 
-image: https://unsplash.it/2000/1200?image=1004
-image-sm: https://unsplash.it/500/300?image=1004
+image: http://imgsrc.baidu.com/forum/w%3D580/sign=39ab4f4681cb39dbc1c0675ee01709a7/06f3a7c379310a555776f558b74543a983261015.jpg
+image-sm: http://imgsrc.baidu.com/forum/w%3D580/sign=39ab4f4681cb39dbc1c0675ee01709a7/06f3a7c379310a555776f558b74543a983261015.jpg
 ---
 Tbh vaporware mumblecore iceland echo park DIY. Plaid woke next level enamel pin, vegan cred salvia pug. XOXO sartorial synth gluten-free, cold-pressed mumblecore craft beer helvetica. Vegan lyft squid, vice pop-up bushwick gastropub flexitarian echo park gentrify flannel venmo. Banh mi ugh direct trade, tote bag irony tbh biodiesel. Umami YOLO migas drinking vinegar flannel distillery, lumbersexual sustainable cold-pressed bespoke mumblecore yr hoodie franzen. Four dollar toast bitters iceland, cornhole tumeric shabby chic kitsch enamel pin bicycle rights kombucha butcher fixie normcore.
 
