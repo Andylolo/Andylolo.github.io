@@ -1,56 +1,36 @@
 ---
 layout: post
-title: "Love You Like A Love Song"
+title: "Outlaws of Love"
 date: 2016-10-01
 categories:
-  - Essays
+  - Autumn
 description: 
-image: /assets/images/2016_12_05_07.jpg
-image-sm: /assets/images/2016_12_05_07.jpg
+image: /assets/images/2016_12_05_01.jpg
+image-sm: /assets/images/2016_12_05_01.jpg
 ---
-It's been said and done  
-Every beautiful thought's been already sung  
-And I guess right now here's another one  
-So your melody will play on and on, with the best of 'em  
-You are beautiful, like a dream come alive, incredible  
-A centerfold, a miracle, lyrical  
-You've saved my life again  
-And I want you to know baby  
-I, I love you like a love song, baby
-I, I love you like a love song, baby
-I, I love you like a love song, baby
-And I keep it in re-pe-pe-peat
-I, I love you like a love song, baby
-I, I love you like a love song, baby
-I, I love you like a love song, baby
-And I keep it in re-pe-pe-peat
+Everywhere we go, we're looking for the sun.  
 
 
-Constantly, boy you played through my mind like a symphony  
-There's no way to describe what you do to me  
-You just do to me, what you do  
-And it feels like I've been rescued  
-I've been set free, I am hypnotized by your destiny  
-You are magical, lyrical, beautiful  
-You are, and I want you to know baby  
-I, I love you like a love song, baby  
-I, I love you like a love song, baby  
-I, I love you like a love song, baby  
-And I keep it in re-pe-pe-peat  
-I, I love you like a love song, baby   
-I, I love you like a love song, baby  
-I, I love you like a love song, baby  
-And I keep it in re-pe-pe-peat  
+Oh, nowhere left to go.  
+Are we getting closer, closer?  
+No. All we know is No.  
+Nights are getting colder, colder  
+Hey. Tears all fall the same.  
+We all feel the rain.  
+We can't change.  
+Everywhere we go, we're looking for the sun.  
+Nowhere to grow old. We're always on the run.  
+They say we'll rot in hell, but I don't think we will.  
+They've branded us enough. Outlaws of love.  
 
 
-No one compares  
-You stand alone, to every record I own  
-Music to my heart that's what you are  
-I, I love you like a love song, baby  
-I, I love you like a love song, baby  
-I, I love you like a love song, baby  
-And I keep it in re-pe-pe-peat  
-I, I love you like a love song, baby  
-I, I love you like a love song, baby  
-I, I love you like a love song, baby  
-And I keep it in re-pe-pe-peat   
+Scars make us who we are.  
+Hearts and homes are broken, broken.  
+Far, we could go so far，with our minds wide open, open.  
+Hey. Tears all fall the same.   
+We all feel the rain.  
+We can't change.  
+Everywhere we go, we're looking for the sun.  
+Nowhere to grow old. We're always on the run.  
+They say we'll rot in hell, well I don't think we will.  
+They've branded us enough. Outlaws of love.   

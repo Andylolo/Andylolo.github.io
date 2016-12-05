@@ -1,43 +1,33 @@
 ---
 layout: post
-title: "Yellow"
+title: "大鱼"
 date: 2016-03-01
 categories:
-  - Events
+  - Spring
 description: 
-image: /assets/images/2016_12_05_03.jpg
-image-sm: /assets/images/2016_12_05_03.jpg
+image: /assets/images/2016_12_05_12.jpg
+image-sm: /assets/images/2016_12_05_12.jpg
 ---
-Do you know, you know I love you so
-
-Look at the stars,look how they shine for you,  
-And everything you do,  
-Yeah, they were all Yellow.  
-I came along,I wrote a song for you,  
-And all the things you do,  
-And it was called Yellow.  
-So then I took my turn,Oh what a thing to have done,  
-And it was all Yellow.  
-Your skin, Oh yeah, your skin and bones,  
-Turn into something beautiful,  
-You know, you know I love you so,  
-You know I love you so.  
+怕你飞 远去 怕你离我而去  
+更怕你 永远停留在这里  
 
 
-I swam across,I jumped across for you,  
-Oh what a thing to do.  
-Cos you were all Yellow,  
-I drew a line,I drew a line for you,  
-Oh what a thing to do,  
-And it was all Yellow.  
-Your skin,Oh yeah your skin and bones,  
-Turn into something beautiful,  
-And you know,for you I'd bleed myself dry,  
-For you I'd bleed myself dry.  
+海浪无声 将夜幕深深淹没  
+漫过天空尽头的角落  
+大鱼在梦境的缝隙里游过  
+凝望你沉睡的轮廓  
+看海天一色 听风起雨落  
+执子手 吹散苍茫茫烟波  
+大鱼的翅膀 已经太辽阔  
+我松开时间的绳索  
 
 
-It's true,  
-Look how they shine for you,  
-Look how they shine.  
-Look at the stars,look how they shine for you,  
-And all the things that you do.  
+怕你飞 远去 怕你离我而去  
+更怕你 永远停留在这里  
+每一滴泪水 都向你流淌去  
+倒流进 天空的海底   
+
+看你飞远去 看你离我而去   
+原来你 生来就属于天际  
+每一滴泪水 都向你流淌去  
+倒流回 最初的相遇  

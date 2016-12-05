@@ -3,12 +3,12 @@ layout: post
 title: "Seasons in the Sun"
 date: 2016-12-01
 categories:
-  - Events
+  - Winter
 description: 
 image: /assets/images/2016_12_05_05.jpg
 image-sm: /assets/images/2016_12_05_05.jpg
 ---
-Pretty girls are everywhere,think of me and I'll be there
+Pretty boys are everywhere,think of me and I'll be there
 
 
 Goodbye to you my trusted friend  

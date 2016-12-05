@@ -1,51 +1,60 @@
 ---
 layout: post
-title: "同行"
+title: "Love You Like A Love Song"
 date: 2016-07-01
 categories:
-  - Essays
+  - Summer
 description: 
-image: /assets/images/2016_12_05_06.jpg
-image-sm: /assets/images/2016_12_05_06.jpg
+image: /assets/images/2016_12_05_07.jpg
+image-sm: /assets/images/2016_12_05_07.jpg
 ---
-若生命是优美旋律 你就是动人歌词
+No one compares  
+You stand alone, to every record I own
 
 
-ถ้าบอกว่าเพลงนี้แต่งให้เธอ..เธอจะเชื่อไหม  
-如果告诉你 这是为你写的歌 你相信吗  
-มันอาจไม่เพราะ ไม่ซึ้งไม่สวยงามเหมือนเพลงทั่วไป  
-可能它 不悦耳不感人不优美 跟别的歌一样  
-อยากให้รู้ว่าเพลงรักถ้าไม่รักก็เขียนไม่ได้  
-要知道 这情歌 因爱而生 因你而写  
-แต่กับเธอคนดีรู้ไหม ฉันเขียนอย่างง่าย...ดาย   
-为了你 我灵感源源不断  
-เธอคงเคยได้ยินเพลงรักมานับร้อยพัน  
-你或许 曾听过的情歌 成千上万  
-มันอาจจะโดนใจแต่ก็มีความหมายเหมือนๆกัน  
-或许感人的歌词 也 打动过你的心  
-แต่กับเธอฟังเพลงนี้เพลงที่เขียนเพื่อเธอเท่านั้น  
-但当你 听到了 这首为你 而作的情歌  
-เพื่อเธอเข้าใจความหมายแล้วใจจะได้มีกันและกัน  
-希望用心保存这首歌并让它永远陪伴你 永远  
-*ให้มันเป็นเพลงบนทางเดินเคียง  
-心意化曲 在我们同行的路 上
-ที่จะมีเพียงเสียงเธอกับฉันอยู่ด้วยกันตราบนาน
-都是我们 快乐的歌声 相伴同行直 到永远永远
-ดั่งในใจความบอกในกวีว่าตราบใดที่มีรักย่อมมีหวัง
-爱 意成诗 包含永远相爱的秘方
-คือทุกครั้งที่รักของเธอส่องใจฉันมีแต่เธอ
-每次你的爱照耀我心我便看到希望
-มีความจริงอยู่ในความรักอยู่มากมาย
-爱情里有很多真相
-และที่ผ่านมาฉันใช้เวลาเพื่อหาความหมาย
-过去我一直苦苦寻找 爱的含义
-แต่ไม่นานก็พึ่งรู้ว่าทุกครั้งที่มีเธอใกล้
-直到最近 你的出现 爱就在你靠 近我的那一刻
-ว่าทั้งชีวิตคือทำนองเธอก็เป็นดั่งคำร้อง
-若生命是优美旋律 你就是动人歌词
-ที่เพราะและซึ้งจับใจ
-在心中久久回 响   
-มีทางเดินให้เราเดินเคียงและมีเสียงของเธอกับฉัน
-同行 的路上 有你我 的歌声
-มีทางเดินให้เราเดินร่วมเคียงและมีเสียงของเธอกับฉัน
-同行的 路上 有你我 两人的歌声  
+It's been said and done  
+Every beautiful thought's been already sung  
+And I guess right now here's another one  
+So your melody will play on and on, with the best of 'em  
+You are beautiful, like a dream come alive, incredible  
+A centerfold, a miracle, lyrical  
+You've saved my life again  
+And I want you to know baby  
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+And I keep it in re-pe-pe-peat  
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+And I keep it in re-pe-pe-peat  
+
+
+Constantly, boy you played through my mind like a symphony    
+There's no way to describe what you do to me    
+You just do to me, what you do  
+And it feels like I've been rescued  
+I've been set free, I am hypnotized by your destiny   
+You are magical, lyrical, beautiful  
+You are, and I want you to know baby  
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+And I keep it in re-pe-pe-peat  
+I, I love you like a love song, baby   
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+And I keep it in re-pe-pe-peat  
+
+
+No one compares  
+You stand alone, to every record I own  
+Music to my heart that's what you are  
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+And I keep it in re-pe-pe-peat  
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+I, I love you like a love song, baby  
+And I keep it in re-pe-pe-peat   

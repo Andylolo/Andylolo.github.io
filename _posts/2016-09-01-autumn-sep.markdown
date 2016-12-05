@@ -1,36 +1,35 @@
 ---
 layout: post
-title: "Outlaws of Love"
+title: "晴天"
 date: 2016-09-01
 categories:
-  - Events
+  - Autumn
 description: 
-image: /assets/images/2016_12_05_01.jpg
-image-sm: /assets/images/2016_12_05_01.jpg
+image: /assets/images/2016_12_05_10.jpg
+image-sm: /assets/images/2016_12_05_10.jpg
 ---
-Everywhere we go, we're looking for the sun.  
+從前從前 有個人愛妳很久 
+但偏偏 風漸漸 把距離吹得好遠 
 
 
-Oh, nowhere left to go.  
-Are we getting closer, closer?  
-No. All we know is No.  
-Nights are getting colder, colder  
-Hey. Tears all fall the same.  
-We all feel the rain.  
-We can't change.  
-Everywhere we go, we're looking for the sun.  
-Nowhere to grow old. We're always on the run.  
-They say we'll rot in hell, but I don't think we will.  
-They've branded us enough. Outlaws of love.  
+故事的小黃花 從出生那年就飄著   
+童年的蕩秋千 隨記憶壹直晃到現在   
+rui sou sou xi dou xi la 
+sou la xi xi xi xi la xi la sou  
+吹著前奏望著天空 我想起花瓣試著掉落    
+為妳翹課的那壹天 花落的那壹天  
+教室的那壹間 我怎麽看不見  
+消失的下雨天 我好想再淋壹遍  
+沒想到失去的勇氣 我還留著  
+好想再問壹遍 妳會等待還是離開 
 
 
-Scars make us who we are.  
-Hearts and homes are broken, broken.  
-Far, we could go so far，with our minds wide open, open.  
-Hey. Tears all fall the same.   
-We all feel the rain.  
-We can't change.  
-Everywhere we go, we're looking for the sun.  
-Nowhere to grow old. We're always on the run.  
-They say we'll rot in hell, well I don't think we will.  
-They've branded us enough. Outlaws of love.   
+刮風這天 我試過握著妳手  
+但偏偏 雨漸漸 大到我看妳不見  
+還要多久 我才能在妳身邊  
+等到放晴的那天 也許我會比較好壹點  
+從前從前 有個人愛妳很久  
+但偏偏 風漸漸 把距離吹得好遠  
+好不容易 又能再多愛壹天  
+但故事的最後妳好像還是說了 拜拜  
+

@@ -1,47 +1,45 @@
 ---
 layout: post
-title: "小幸運"
+title: "Yellow"
 date: 2016-05-01
 categories:
-  - Poems
+  - Summer
 description: 
-image: /assets/images/2016_12_05_12.jpg
-image-sm: /assets/images/2016_12_05_12.jpg
+image: /assets/images/2016_12_05_03.jpg
+image-sm: /assets/images/2016_12_05_03.jpg
 ---
-  原來妳是我最想留住的幸運  
-　　原來我們和愛情曾經靠得那麽近  
-  
-  
-  我聽見雨滴落在青青草地    
-　　我聽見遠方下課鐘聲響起   
-　　可是我沒有聽見妳的聲音  
-　　認真 呼喚我姓名
-  
-　　愛上妳的時候還不懂感情  
-　　離別了才覺得刻骨 銘心  
-　　為什麽沒有發現遇見了妳  
-　　是生命最好的事情  
+Do you know, you know I love you so
 
-  青春是段跌跌撞撞的旅行
-　　擁有著後知後覺的美麗
-　　來不及感謝是妳給我勇氣
-　　讓我能做回我自己
-
-　　也許當時忙著微笑和哭泣  
-　　忙著追逐天空中的流星  
-　　人理所當然的忘記  
-　　是誰風裏雨裏壹直默默守護在原地  
+Look at the stars,look how they shine for you,  
+And everything you do,  
+Yeah, they were all Yellow.  
+I came along,I wrote a song for you,  
+And all the things you do,  
+And it was called Yellow.  
+So then I took my turn,Oh what a thing to have done,  
+And it was all Yellow.  
+Your skin, Oh yeah, your skin and bones,  
+Turn into something beautiful,  
+You know, you know I love you so,  
+You know I love you so.  
 
 
-　　原來妳是我最想留住的幸運  
-　　原來我們和愛情曾經靠得那麽近  
-　　那為我對抗世界的決定  
-　　那陪我淋的雨  
-　　壹幕幕都是妳 壹塵不染的真心  
+I swam across,I jumped across for you,  
+Oh what a thing to do.  
+Cos you were all Yellow,  
+I drew a line,I drew a line for you,  
+Oh what a thing to do,  
+And it was all Yellow.  
+Your skin,Oh yeah your skin and bones,  
+Turn into something beautiful,  
+And you know,for you I'd bleed myself dry,  
+For you I'd bleed myself dry.  
 
 
-　　與妳相遇 好幸運  
-　　可我已失去為妳淚流滿面的權利  
-　　但願在我看不到的天際  
-　　妳張開了雙翼 遇見妳的註定  
-　　她會有多幸運     
+It's true,  
+Look how they shine for you,  
+Look how they shine.  
+Look at the stars,look how they shine for you,  
+And all the things that you do.  
+
+ 

@@ -3,7 +3,7 @@ layout: post
 title: "保留"
 date: 2016-08-01
 categories:
-  - Poems
+  - Autumn
 description: 
 image: /assets/images/2016_12_05_07.jpg
 image-sm: /assets/images/2016_12_05_07.jpg
