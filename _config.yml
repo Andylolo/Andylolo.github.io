@@ -14,7 +14,7 @@ default_img:
 
 # Profile settings
 name: The website of Andy and Charlie
-profile_img: "/assets/images/profile.jpeg"
+profile_img: "/assets/images/profile.jpg"
 profile: love and trust
 social:
   github: 
