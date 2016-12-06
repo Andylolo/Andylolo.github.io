@@ -5,8 +5,8 @@ date: 2016-07-01
 categories:
   - Summer
 description: 
-image: /assets/images/2016_12_05_13.jpg
-image-sm: /assets/images/2016_12_05_13.jpg
+image: /assets/images/2016_12_05_21.jpg
+image-sm: /assets/images/2016_12_05_21.jpg
 ---
 No one compares  
 You stand alone, to every record I own

@@ -5,8 +5,8 @@ date: 2016-10-01
 categories:
   - Autumn
 description: 
-image: /assets/images/2016_12_05_07.jpg
-image-sm: /assets/images/2016_12_05_07.jpg
+image: /assets/images/2016_12_05_02.jpg
+image-sm: /assets/images/2016_12_05_02.jpg
 ---
 Everywhere we go, we're looking for the sun.  
 
