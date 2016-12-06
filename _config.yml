@@ -17,7 +17,11 @@ name: The website of Andy and Charlie
 profile_img: "/assets/images/profile.jpg"
 profile: 愛健身，愛籃球，愛遊泳，開開心心每壹天！
 social:
-  github: 
+  facebook:
+    https://www.facebook.com/charlie.summer
+  instagram:  
+  github:
+    https://github.com/Andylolo
 
 # Build settings
 include: ["_categories"]
