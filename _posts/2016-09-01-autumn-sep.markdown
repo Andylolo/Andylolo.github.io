@@ -5,8 +5,8 @@ date: 2016-09-01
 categories:
   - Autumn
 description: 
-image: /assets/images/2016_12_05_10.jpg
-image-sm: /assets/images/2016_12_05_10.jpg
+image: /assets/images/2016_12_05_17.jpg
+image-sm: /assets/images/2016_12_05_17.jpg
 ---
 從前從前 有個人愛妳很久 
 但偏偏 風漸漸 把距離吹得好遠 

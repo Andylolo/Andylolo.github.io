@@ -5,8 +5,8 @@ date: 2016-04-01
 categories:
   - Spring
 description: 
-image: /assets/images/2016_12_05_06.jpg
-image-sm: /assets/images/2016_12_05_06.jpg
+image: /assets/images/2016_12_05_14.jpg
+image-sm: /assets/images/2016_12_05_14.jpg
 ---
 ว่าทั้งชีวิตคือทำนองเธอก็เป็นดั่งคำร้อง  
 若生命是优美旋律 你就是动人歌词

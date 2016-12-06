@@ -5,8 +5,8 @@ date: 2016-01-01
 categories:
   - Winter
 description: 
-image: /assets/images/2016_12_05_08.jpg
-image-sm: /assets/images/2016_12_05_08.jpg
+image: /assets/images/2016_12_05_19.jpg
+image-sm: /assets/images/2016_12_05_19.jpg
 ---
 如果我说 我真的爱你 谁来收拾那些被破坏的友谊  
 如果我忍住这个秘密 温暖冬天 就会遥遥而无期

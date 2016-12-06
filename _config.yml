@@ -6,7 +6,7 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Charlieroom
+title: CharlieSpace
 description: entertainment events,Life sharing,knowledge sharing
 url: "charlieroom.top"
 twitter_username: 
@@ -15,7 +15,7 @@ default_img:
 # Profile settings
 name: The website of Andy and Charlie
 profile_img: "/assets/images/profile.jpg"
-profile: love and trust
+profile: 愛健身，愛籃球，愛遊泳，開開心心每壹天！
 social:
   github: 
 

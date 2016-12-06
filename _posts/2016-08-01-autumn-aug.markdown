@@ -5,8 +5,8 @@ date: 2016-08-01
 categories:
   - Autumn
 description: 
-image: /assets/images/2016_12_05_07.jpg
-image-sm: /assets/images/2016_12_05_07.jpg
+image: /assets/images/2016_12_05_22.jpg
+image-sm: /assets/images/2016_12_05_22.jpg
 ---
 多渴望 拥抱你 不放手  
 可我说不出口 说爱你到永久
